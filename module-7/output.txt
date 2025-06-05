@@ -1,0 +1,6 @@
+labib 1 89
+sakib 2 85
+Musa 3 80
+rakib 4 59
+Miraz 9 50
+raihan 6 48
